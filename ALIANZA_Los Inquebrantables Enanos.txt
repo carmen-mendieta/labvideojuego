@@ -1,0 +1,1 @@
+Personaje [id=2, fraccion=ALIANZA, raza=Los Inquebrantables Enanos]

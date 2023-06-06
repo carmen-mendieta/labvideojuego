@@ -1,0 +1,1 @@
+Personaje [id=5, fraccion=HORDA, raza=Los Extravagantes Elfos de Sangre]

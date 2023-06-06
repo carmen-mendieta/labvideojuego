@@ -1,0 +1,1 @@
+Personaje [id=6, fraccion=ALIANZA, raza=Los Bestiales Huargen]
