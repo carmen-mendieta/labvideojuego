@@ -1,3 +1,4 @@
+   labvideojuego
 **Aplicación de inserción de datos de personajes de videojuego**
 Esta aplicación Java permite insertar datos de personajes de videojuego en dos grupos o fracciones: Alianza y Horda. Cada fracción se divide en distintas razas, como se detalla a continuación:
 
