@@ -21,7 +21,7 @@ Descomunales Tauren, Los Malditos Renegados, Los Extravagantes Elfos de Sangre, 
             line = bufReader.readLine();
             while (line != null) {
                 FileReader readerRaza = new FileReader(
-                        "C:\\Users\\mariam\\Desktop\\java\\labvideojuego\\RAZAS_" + line.toUpperCase() + ".txt");
+                        "RAZAS_" + line.toUpperCase() + ".txt");
                 BufferedReader bufReaderRaza = new BufferedReader(readerRaza);
                 String r = null;
                 r = bufReaderRaza.readLine();
