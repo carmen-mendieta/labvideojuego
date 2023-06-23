@@ -45,11 +45,9 @@ public class ManejadordePersonajes {
 					r = bufReaderRaza.readLine();
 
 				}
-
 				line = bufReader.readLine();
 				readerRaza.close();
 				bufReaderRaza.close(); 
-
 			}
 
 		} catch (IOException e) {
